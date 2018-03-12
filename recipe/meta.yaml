@@ -22,7 +22,7 @@ requirements:
 
   run:
     - python
-    - twisted >=11.1
+    - twisted >=15.0
     - wrapt
     
 test:
