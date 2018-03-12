@@ -23,10 +23,12 @@ requirements:
   run:
     - python
     - twisted >=11.1
-
+    - wrapt
+    
 test:
   imports:
     - crochet
+    - wrapt
 
 about:
   home: https://github.com/itamarst/crochet
