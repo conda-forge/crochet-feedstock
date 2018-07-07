@@ -28,14 +28,15 @@ regular blocking code. Some use cases include:
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/crochet-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/crochet-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/crochet-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/crochet-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/crochet-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/crochet-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/crochet-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/crochet-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/crochet/badges/version.svg)](https://anaconda.org/conda-forge/crochet)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/crochet/badges/downloads.svg)](https://anaconda.org/conda-forge/crochet)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-crochet-green.svg)](https://anaconda.org/conda-forge/crochet) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/crochet.svg)](https://anaconda.org/conda-forge/crochet) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/crochet.svg)](https://anaconda.org/conda-forge/crochet) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/crochet.svg)](https://anaconda.org/conda-forge/crochet) |
 
 Installing crochet
 ==================
