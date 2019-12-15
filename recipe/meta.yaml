@@ -1,6 +1,6 @@
 {% set name = "crochet" %}
-{% set version = "1.10.0" %}
-{% set sha256 = "de0d1c9acfe8200b7ec8cf53ce5878fd20531d55c01199a9ae27936c45ef3c79" %}
+{% set version = "1.11.0" %}
+{% set sha256 = "e9fa198360972d943b97cc5b3ed3a9eb565a1d20caf8dfd91c03f1888ea4ed1e" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: "{{ PYTHON }} -m pip install . -vv"
 
 requirements:
