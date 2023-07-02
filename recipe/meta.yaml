@@ -1,6 +1,6 @@
 {% set name = "crochet" %}
-{% set version = "2.0.0" %}
-{% set sha256 = "5f7f6c0d41ec418da16080f0202faac6b30f84a6fca9d8911e9db541f8e4e521" %}
+{% set version = "2.1.1" %}
+{% set sha256 = "7ece69de1ce8e63ffc0af8e2331ec4eb898d91ed4271aafa4ccc398523b81cf9" %}
 
 package:
   name: {{ name|lower }}
